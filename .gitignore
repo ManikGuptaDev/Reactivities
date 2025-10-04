@@ -1,0 +1,15 @@
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Node.js / React
+node_modules/
+dist/
+build/
